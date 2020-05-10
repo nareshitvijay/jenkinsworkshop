@@ -9,6 +9,6 @@ public class HelloWorldController {
 	@RequestMapping(value="/")
 	public String returnHello()
 	{
-		return "Welcome to Jenskins Workshop Commitchanges";
+		return "Welcome to Jenskins Workshop";
 	}
 }
