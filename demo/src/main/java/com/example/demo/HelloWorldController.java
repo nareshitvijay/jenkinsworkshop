@@ -9,6 +9,6 @@ public class HelloWorldController {
 	@RequestMapping(value="/")
 	public String returnHello()
 	{
-		return "Welcome to Jenskins Workshop Second Day May9";
+		return "Just Retesting with Automated CICD ...Pleaes Observe";
 	}
 }
